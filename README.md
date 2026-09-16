@@ -5,9 +5,6 @@
 
 ## About Me
 
-- Computer Engineering student at the **University of Waterloo**.
-- Software Engineer Intern at **YGBK International Education Technology**.
-- Based in **Waterloo / Toronto, Ontario**.
-- My work spans web and mobile interfaces, backend services, and production operations.
+I’m a Computer Engineering student at the **University of Waterloo** and a Software Engineer Intern at **YGBK International Education Technology**, based in **Waterloo / Toronto, Ontario**. My work spans web and mobile interfaces, backend services, and production operations.
 
 [GitHub](https://github.com/tianzeyin) · [LinkedIn](https://www.linkedin.com/in/tianze-yin) · [Email](mailto:yintz1207@gmail.com)
