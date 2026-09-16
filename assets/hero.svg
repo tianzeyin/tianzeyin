@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Hello! I'm Tianze Yin</title>
+  <desc id="desc">Engineering / Software Systems. Computer Engineering at the University of Waterloo. Dark navy engineering grid with teal and purple accents.</desc>
+  <defs>
+    <linearGradient id="accent" x1="390" y1="180" x2="800" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset="0.5" stop-color="#7DD3FC"/><stop offset="1" stop-color="#C4A0FF"/></linearGradient>
+    <linearGradient id="line" x1="76" y1="330" x2="1324" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.055"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1398" height="418" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1400" height="420" fill="#0B1120"/>
+    <rect width="1400" height="420" fill="url(#grid)"/>
+    <g stroke="#5EEAD4" stroke-opacity="0.13"><path d="M1180 60h120v120M1220 100h80v80M1260 140h40v40"/><circle cx="1300" cy="180" r="4" fill="#5EEAD4"/></g>
+    <text x="76" y="100" fill="#99AABD" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="4">ENGINEERING / SOFTWARE SYSTEMS</text>
+    <text x="72" y="218" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-2"><tspan fill="#F1F5F9">Hello! I'm </tspan><tspan fill="url(#accent)">Tianze Yin</tspan></text>
+    <text x="76" y="276" fill="#B7C5D7" font-family="Arial, Helvetica, sans-serif" font-size="28">Computer Engineering @ University of Waterloo</text>
+    <path d="M80 330H1320" stroke="url(#line)" stroke-opacity="0.65"/>
+    <circle cx="80" cy="330" r="4" fill="#5EEAD4"/><circle cx="1320" cy="330" r="4" fill="#A78BFA"/>
+    <text x="76" y="376" fill="#8192AA" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2.5">FULL-STACK DEVELOPMENT · CLOUD INFRASTRUCTURE · AI</text>
+  </g>
+  <rect x="1" y="1" width="1398" height="418" rx="24" stroke="#2A384D" stroke-width="2"/>
+</svg>
