@@ -6,7 +6,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I’m a <strong>full-stack engineer</strong> studying Computer Engineering at the <strong>University of Waterloo</strong>. As a Software Engineer Intern at <strong>YGBK International Education Technology</strong>, I build and deploy applications across the stack, from web and mobile interfaces to backend APIs, databases, and cloud infrastructure.
+  I’m a <strong>full-stack engineer</strong> and Computer Engineering student at the <strong>University of Waterloo</strong>. I build web and mobile apps with TypeScript, React, and Next.js, and backend services with Python, FastAPI, and PostgreSQL. I enjoy working across the whole application, from designing interfaces to deploying and running them. My interests include cloud infrastructure, secure media streaming, and using AI and computer vision to build more accessible tools.
 </p>
 
 <p align="center">
