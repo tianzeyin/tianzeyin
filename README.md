@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" width="100%" alt="Hello! I'm Tianze Yin — Computer Engineering at the University of Waterloo. Engineering / Software Systems.">
+  <img src="assets/hero.svg" width="100%" alt="Tianze Yin — Full-stack engineer. Computer Engineering at the University of Waterloo.">
 </picture>
 
 <h2 align="center">About Me</h2>
