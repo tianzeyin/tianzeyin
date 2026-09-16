@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tianzeyin">GitHub</a> · <a href="https://www.linkedin.com/in/tianze-yin">LinkedIn</a> · <a href="mailto:yintz1207@gmail.com">Email</a>
+  <a href="https://tianzeyin.github.io/Tianze-Yin/#top">Portfolio</a> · <a href="https://github.com/tianzeyin">GitHub</a> · <a href="https://www.linkedin.com/in/tianze-yin">LinkedIn</a> · <a href="mailto:yintz1207@gmail.com">Email</a>
 </p>
